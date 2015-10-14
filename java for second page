@@ -1,0 +1,66 @@
+var images = ["images/1.jpg","images/3.jpg","images/4.jpg","images/6.jpg"];
+	var i = 0;
+	//}
+  
+	
+function previousImage() {
+	if(i > 0) {
+		changeImage(--i)
+	  }
+}
+
+function nextImage() {
+	if(i + 1 < images.length) {
+		changeImage(++i)
+      }
+}
+
+function changeImage(newIndex) {
+	$("#image-to-vote-on").attr("src",images[newIndex]);
+}
+
+
+  $( document ).ready(function() {
+      console.log( "ready!" );
+      event.preventDefault();
+      });
+
+    $("#buttons .btn[value='Next']").on("click", nextImage);
+	$("#buttons .btn[value='Back']").on("click", previousImage);
+ 
+
+
+$(".readmore").click(function(){
+	event.preventDefault();
+    $('#show-this-on-click').slideDown().show;
+    $(".readmore").addClass("hide");
+    console.log('show1');
+    $(".readless").removeClass("hide");
+});	
+
+
+$(".readless").click(function(){
+	event.preventDefault();
+    $('#show-this-on-click').slideUp().hide;
+    $(".readless").addClass("hide");
+    console.log('slideup');
+    $(".readmore").removeClass("hide");
+});	
+
+
+$(".readmore2").click(function(){
+	event.preventDefault();
+    $('#show-this-on-click2').slideDown().show;
+    $(".readmore2").addClass("hide2");
+    console.log('show1');
+    $(".readless2").removeClass("hide2");
+});	
+
+
+$(".readless2").click(function(){
+	event.preventDefault();
+    $('#show-this-on-click2').slideUp().hide;
+    $(".readless2").addClass("hide2");
+    console.log('slideup');
+    $(".readmore2").removeClass("hide2");
+});	
