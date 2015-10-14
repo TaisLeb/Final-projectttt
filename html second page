@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+
+<html>
+    <script src="js/index.js"></script>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css" media="screen" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Quicksand:300' rel='stylesheet' type='text/css'>
+
+
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<div id="content">
+  <header>
+         <title>Portfolio works</title>
+         <img class="img12" src="images/fff.svg">
+         <h2>CONTRASTE</h2>
+         
+  </header>  
+
+<body>   
+    
+
+<div id= "container">
+          <div id= "container1">
+                     <div id="carousel">
+                        <img id="image-to-vote-on" src="images/1.jpg">
+                         <div id="buttons">
+                            <form>
+                               <input type="button" class="btn" value="Back">
+                               <input type="button" class="btn" value="Next">
+                            </form>
+                         </div>
+                     </div> 
+          </div>
+
+  
+          <div id= "container2">
+         
+   
+        <div class="column1">
+          <p><span>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->"</span></p>
+          <p class="readmore"><a href="#">Read more &gt;</a></p>
+            <p class="hide" id="show-this-on-click"><span>Maecenas quis auctor dui. Ut porta aliquam lorem, at volutpat orci commodo a. Suspendisse nunc orci, porttitor ac sapien a, rutrum porttitor odio. Phasellus faucibus tristique orci eget dictum. Proin tincidunt vehicula leo sed mattis. Nunc faucibus augue a pellentesque tristique. Proin suscipit in dui ut convallis.</span></p>
+            <p class="readless hide"><a href="#">Read less &gt;</a></p>
+       
+        </div>
+
+
+        <div class="column2">
+        <img class="css-img1" src="images/p3.jpg" />
+        </div>
+
+
+        <div class="column3">
+        <p><span>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->"</span></p>
+
+            <p class="readmore2"><a href="#">Read more &gt;</a></p>
+            <p class="hide2" id="show-this-on-click2"><span>Maecenas quis auctor dui. Ut porta aliquam lorem, at volutpat orci commodo a. Suspendisse nunc orci, porttitor ac sapien a, rutrum porttitor odio. Phasellus faucibus tristique orci eget dictum. Proin tincidunt vehicula leo sed mattis. Nunc faucibus augue a pellentesque tristique. Proin suscipit in dui ut convallis</span>.</p>
+            <p class="readless2 hide2"><a href="#">Read less &gt;</a></p>
+        </div>
+              
+
+  </div>
+
+
+
+     <div class= "container3">
+
+      <div class="column4">
+      <h4>PROCESS</h4>
+          <p><span>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->"</span></p>
+
+           
+         
+        </div>
+       
+
+        <div class="column5">
+        <img class="css-img2" src="images/p1.jpg" />
+        </div>
+
+
+        <div class="column6">
+        <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->"</p>
+        </div>
+     </div>
+     <div class="gallery-container">           
+            <div class="gallery">
+                <h5></h5>
+                <!-- The actual moving Slider -->
+                <div class="slider">
+                    <ul>
+                        <li>
+                            <div class="slides">
+                                <div class="slides_content">
+                                    <img class="img1" src="images/char.jpg" alt="Image1" />
+                                    <h3>
+                                    <span class="slides_heading"></span><br/>
+                                    <div class="text_container"><span class="slides_texts"></span>
+                                    </div>
+                                    </h3>
+                                </div>
+                            </div>
+                        </li>
+ 
+                        <li>
+                            <div class="slides">
+                                <div class="slides_content">
+                                    <img class="img2" src="images/cat.jpg" alt="Image2" />
+                                    <h3>
+                                    <span class="slides_heading"></span><br/>
+                                    <div class="text_container"><span class="slides_texts"></span>
+                                    </div>
+                                    </h3>
+                                </div>
+                            </div>
+                        </li>
+                         
+                        <li>
+                            <div class="slides">
+                                <div class="slides_content">
+                                    <img class="img3" src="images/par.jpg" alt="Image3" />
+                                    <h3>
+                                    <span class="slides_heading"></span><br/>
+                                    <div class="text_container"><span class="slides_texts"></span>
+                                    </div>
+                                    </h3>
+                                </div>
+                            </div>
+                        </li>
+                         
+                        <li>
+                            <div class="slides">
+                                <div class="slides_content">
+                                    <img class="img4" src="images/owl.jpg" alt="Image4" />
+                                    <h3>
+                                    <span class="slides_heading"></span><br/>
+                                    <div class="text_container"><span class="slides_texts"></span>
+                                    </div>
+                                    </h3>
+                                </div>
+                            </div>
+                        </li>
+                        
+                            <li>
+                            <div class="slides">
+                                <div class="slides_content">
+                                    <img class="img3" src="images/sun2.jpg" alt="Image3" />
+                                    <h3>
+                                    <span class="slides_heading"></span><br/>
+                                    <div class="text_container"><span class="slides_texts"></span>
+                                    </div>
+                                    </h3>
+                                </div>
+                            </div>
+                        </li>
+                            <li>
+                            <div class="slides">
+                                <div class="slides_content">
+                                    <img class="img3" src="images/tul.jpg" alt="Image3" />
+                                    <h3>
+                                    <span class="slides_heading"></span><br/>
+                                    <div class="text_container"><span class="slides_texts"></span>
+                                    </div>
+                                    </h3>
+                                </div>
+                            </div>
+                        </li>
+                            <li>
+                            <div class="slides">
+                                <div class="slides_content">
+                                    <img class="img3" src="images/red.jpg" alt="Image3" />
+                                    <h3>
+                                    <span class="slides_heading"></span><br/>
+                                    <div class="text_container"><span class="slides_texts"></span>
+                                    </div>
+                                    </h3>
+                                </div>
+                            </div>
+                        </li>
+                         
+                    </ul>
+                </div>
+                 
+                <!-- Navigation Button Controls -->
+                 
+                <div class="slider-nav">
+                    
+                </div>
+                     
+            </div>
+            <!-- Pagination Controls -->
+            <div class="slider-pagi">
+                <div class="pagi-container">
+                    <ul></ul>   <!-- Here Paginations will be dynamically created, depending on Number of elements in the list. -->                  
+ 
+                </div>
+            </div>
+        </div>
+
+  </div>
+  
+  <footer>
+      <h4 class="logo">TL</h4>
+
+      <ul>
+        <li><a href="#"><img src="images/twitter.png" alt="Twitter logo"></a></li>
+        <li><a href="#"><img src="images/facebook.png" alt="Facebook logo"></a></li>
+      </ul>
+
+      
+    </footer>
+
+     <div class= "container3">
+     </div>
+     <script src="js/index.js"></script>
+
+
+     </footer>
+ 
+    <script src="js/index1.js"></script>
+    </body>
+
+  </div>
+
+</html>
